@@ -1,1 +1,1 @@
-push pull exercise
+push and pull request  exercise
